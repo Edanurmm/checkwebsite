@@ -15,7 +15,7 @@ The architecture separates:
 - ## 🖥️ Application Preview
 
 ### 🏠 Homepage
-![Homepage](./screenshots/homepage1.png)
+![Homepage](./screenshots/homepage.png)
 
 ![Homepage](./screenshots/homepage2.png)
 
