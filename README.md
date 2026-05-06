@@ -12,6 +12,23 @@ The architecture separates:
 - Product (main entity)
 - ProductDetail (seller-specific offers)
 
+- ## 🖥️ Application Preview
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage1.png)
+
+![Homepage](./screenshots/homepage2.png)
+
+---
+
+### 📦 Product Listing
+![Product List](./screenshots/product-list.png)
+
+---
+
+### 💰 Price Comparison (Offers)
+![Offers](./screenshots/offers.png)
+
 - ## 🧠 System Design
 
 The system is built on a layered architecture:
